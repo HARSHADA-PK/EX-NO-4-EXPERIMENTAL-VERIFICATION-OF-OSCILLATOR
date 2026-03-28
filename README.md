@@ -49,6 +49,9 @@ To prevent loading,
 R1   10 R
 R1 =10 R = 33 k. Rf = 29R1=1MΩ
 
+<img width="1480" height="916" alt="image" src="https://github.com/user-attachments/assets/7665cd84-9828-4ba9-a733-47ac982e0671" />
+
+
 ---
 ## PROCEDURE
 1.	Connect the circuit as shown in fig. With the design values.
@@ -57,16 +60,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/9427d8c0-bbb1-4a9a-be2f-8fad7cfeef64" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="916" height="1394" alt="image" src="https://github.com/user-attachments/assets/b408d36d-d866-424d-824e-45c2c8d14317" />
 
 
 ---
@@ -115,6 +113,8 @@ Therefore R1 = 1.5K *10=15KΩ
 Rf = 15K *2=30KΩ
 ---
 
+<img width="916" height="1450" alt="image" src="https://github.com/user-attachments/assets/32b8fba9-a28d-4ec8-8149-ba9e94cb0451" />
+
 ## PROCEDURE
 
 1.	Connections are given as per the circuit diagram
@@ -124,19 +124,13 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/3a6f133e-718b-4253-b26f-d2c2023d551f" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="916" height="1590" alt="image" src="https://github.com/user-attachments/assets/8071fe80-b1a2-4f1f-9e56-b55ec0441765" />
 
----
 ## RESULT:
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
